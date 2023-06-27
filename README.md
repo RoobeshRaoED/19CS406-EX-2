@@ -52,6 +52,7 @@ while True:
 # OUTPUT :
 Client:     Server:
 
+![](2.png)
 
 # RESULT :
 
